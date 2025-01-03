@@ -1,3 +1,6 @@
+# Hi, I'm Duong
+An imperfect engineer and designer loves designing and engineering. So why not combine both? I get a lot of enjoyment creating platforms that people will use.
+
 # Revamping the App 
 Led an application revamp with 60+ new features, using Figma, Flutter, and JavaScript, resulting a **4.9-star** app rating
 
