@@ -22,7 +22,8 @@ Functionality:
 
 User Flow: 
 
-- 100% of users mistakenly clicked on "Edit Profile" to edit their bio, indicating a significant flaw in the user interface design. 
+- 100% of users mistakenly clicked on "Edit Profile" to edit their bio, indicating a significant flaw in the user interface design.
+  
 ![my image](https://github.com/dvu28/soshi/blob/48c11eaea3c73d4820c49abd778711b02b121059/Screenshot%202025-01-03%20021729.png)
 
 ## Ideated Designs 
