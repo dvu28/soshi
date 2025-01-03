@@ -10,9 +10,7 @@ To start ideating designs, I initiated the research process by evaluating the cu
 ## Post Interviews and Insights :bulb:
 Feedback from users confirmed my initial assessments: the app's interface is unappealing and its features disrupt the user experience, leading to poor usability.
 
-​
 ### User Feedback Highlights
-
 
 Visuals & Presentation:
 
