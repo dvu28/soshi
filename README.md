@@ -26,7 +26,9 @@ User Flow:
 
 ![my image](https://github.com/dvu28/soshi/blob/48c11eaea3c73d4820c49abd778711b02b121059/Screenshot%202025-01-03%20021729.png)
 ## Ideated Designs
-The link below is the figma file showcasing the same ideated designs as an alternative way to view.
+The links below are figma files showcasing all of the raw ideated designs. Check them out! Still need to organize them...
+https://www.figma.com/design/Y7dYcSbkMpyDrsTtYGH3tp/Register-and-Log-in-screen?node-id=0-1&p=f&t=4GY0CEGQC4mLklG9-0
+https://www.figma.com/design/WcmVkGzdbzvB7elsrmfBUV/Soshi-Friends%2FGroup%2C-Own-Profile%2C-and-other?node-id=248-142&p=f&t=Kvy2rvXhhoC5YfYw-0
 
 ![my image](https://github.com/dvu28/soshi/blob/f3ad77881622e4ca4e33cd8bab5fdf6d1b204db9/IMG_1528%202.png)
 ![my image](https://github.com/dvu28/soshi/blob/dbcb3b4b3311a006569785815ca3f2c6a967c135/Screenshot%202025-01-03%20030934.png)
