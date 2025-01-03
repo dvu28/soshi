@@ -38,6 +38,7 @@ The links below are Figma files showcasing all of the raw ideated designs. Check
 ## Results
 We conducted 900+ A/B usability and end-to end tests, validating 98% of design decisions. This also boosted the app rating on the Apple Store from 3.8 to a 4.9 out of 5 stars.
 
+## Conclusion
 The addition steps to the flow of adding a social platform can now be differentiated with editing your bio, username, and name. That was a huge flaw in the previous version of the app.
 
 
