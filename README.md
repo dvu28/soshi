@@ -1,5 +1,5 @@
 # Revamping the App 
-Led an application revamp with 60+ new features, using Figma, Flutter, and JavaScript, resulting a 5-star app rating 
+Led an application revamp with 60+ new features, using Figma, Flutter, and JavaScript, resulting a **4.9-star** app rating 
 
 ## Context 
 The team needed UI/UX improvement because of user's feedback on its design and functionality. It was terrible. That is where I stepped in to revamp the app from user interface to user experience. 
@@ -14,15 +14,15 @@ Feedback from users confirmed my initial assessments: the app's interface is una
 
 Visuals & Presentation: 
 
-- 97% of users described the app's visual and presentation as "bland", "annoying to the eye", and not "modern or professional". 
+- **97%** of users described the app's visual and presentation as "bland", "annoying to the eye", and not "modern or professional". 
 
 Functionality: 
 
-- 93% of users were confused about adding, editing, and removing a platform, a core feature of the app. 
+- **93%** of users were confused about adding, editing, and removing a platform, a core feature of the app. 
 
 User Flow: 
 
-- 100% of users mistakenly clicked on "Edit Profile" to edit their bio, indicating a significant flaw in the user interface design.
+- **100%** of users mistakenly clicked on "Edit Profile" to edit their bio, indicating a significant flaw in the user interface design.
   
 ![my image](https://github.com/dvu28/soshi/blob/48c11eaea3c73d4820c49abd778711b02b121059/Screenshot%202025-01-03%20021729.png)
 
@@ -36,7 +36,7 @@ The links below are Figma files showcasing all of the raw ideated designs. Check
 ![my image](https://github.com/dvu28/soshi/blob/dbcb3b4b3311a006569785815ca3f2c6a967c135/Screenshot%202025-01-03%20030934.png)
 
 ## Results
-We conducted 900+ A/B usability and end-to end tests, validating 98% of design decisions. This also boosted the app rating on the Apple Store from 3.8 to a 4.9 out of 5 stars.
+We conducted **900+** A/B usability and end-to end tests, validating **98%** of design decisions. This also boosted the app rating on the Apple Store from 3.8 to a **4.9** out of 5 stars.
 
 ## Conclusion
 The addition steps to the flow of adding a social platform can now be differentiated with editing your bio, username, and name. That was a huge flaw in the previous version of the app.
