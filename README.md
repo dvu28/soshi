@@ -47,5 +47,5 @@ The resdesign of the app's interface offers users a more modern feel as to what 
 
 Notice how I didn't mention which designs were the old versions versus the new. I want people reading this to decide for themselves. 
 
-
- 
+## Addtional Materials
+https://swoledevs.wixsite.com/sosh
