@@ -41,5 +41,9 @@ We conducted 900+ A/B usability and end-to end tests, validating 98% of design d
 ## Conclusion
 The addition steps to the flow of adding a social platform can now be differentiated with editing your bio, username, and name. That was a huge flaw in the previous version of the app.
 
+The resdesign of the app's interface offers users a more modern feel as to what a social media app would look like. 
+
+Notice how I didn't mention which designs were the old versions versus the new. I want people reading this to decide for themselves. 
+
 
  
