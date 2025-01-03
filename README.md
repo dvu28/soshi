@@ -30,7 +30,7 @@ User Flow:
 ## Ideated Designs
 The link below is the figma file showcasing the same ideated designs as an alternative way to view.
 
-![my image](https://github.com/dvu28/soshi/blob/6b173cfad0e89836d17ffd1964a93ed87ca9e40e/IMG_1528%201.png)
+![my image](https://github.com/dvu28/soshi/blob/6b173cfad0e89836d17ffd1964a93ed87ca9e40e/IMG_1528%201.png {width=40px height=400px})
 ![my image](https://github.com/dvu28/soshi/blob/dbcb3b4b3311a006569785815ca3f2c6a967c135/Screenshot%202025-01-03%20030934.png)
 
 ## Validating Design Choices
