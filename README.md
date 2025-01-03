@@ -30,11 +30,15 @@ User Flow:
 The links below are Figma files showcasing all of the raw ideated designs. Check them out! You will need to sign in to your own Figma account but the files should be open and viewable. 
 
 - https://www.figma.com/design/Y7dYcSbkMpyDrsTtYGH3tp/Register-and-Log-in-screen?node-id=0-1&p=f&t=4GY0CEGQC4mLklG9-0 
-- https://www.figma.com/design/WcmVkGzdbzvB7elsrmfBUV/Soshi-Friends%2FGroup%2C-Own-Profile%2C-and-other?node-id=248-142&p=f&t=Kvy2rvXhhoC5YfYw-0 
+- https://www.figma.com/design/WcmVkGzdbzvB7elsrmfBUV/Soshi-Friends%2FGroup%2C-Own-Profile%2C-and-other?node-id=248-142&p=f&t=Kvy2rvXhhoC5YfYw-0
 
 ![my image](https://github.com/dvu28/soshi/blob/f3ad77881622e4ca4e33cd8bab5fdf6d1b204db9/IMG_1528%202.png)
 ![my image](https://github.com/dvu28/soshi/blob/dbcb3b4b3311a006569785815ca3f2c6a967c135/Screenshot%202025-01-03%20030934.png)
 
-## Validating Design Choices 
-We conducted 900+ A/B usability and end-to end tests, validating 98% of design decisions 
+## Results
+We conducted 900+ A/B usability and end-to end tests, validating 98% of design decisions. This also boosted the app rating on the Apple Store from 3.8 to a 4.9 out of 5 stars.
+
+The addition steps to the flow of adding a social platform can now be differentiated with editing your bio, username, and name. That was a huge flaw in the previous version of the app.
+
+
  
