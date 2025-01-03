@@ -1,5 +1,7 @@
 # Revamping the App 
-Led an application revamp with 60+ new features, using Figma, Flutter, and JavaScript, resulting a **4.9-star** app rating 
+Led an application revamp with 60+ new features, using Figma, Flutter, and JavaScript, resulting a **4.9-star** app rating
+
+![my images](https://github.com/dvu28/soshi/blob/5a62f7679cb0ed50bdd2646171740e592bcd7f9f/mockrocket-capture%20(2).png)
 
 ## Context 
 The team needed UI/UX improvement because of user's feedback on its design and functionality. It was terrible. That is where I stepped in to revamp the app from user interface to user experience. 
